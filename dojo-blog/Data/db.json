@@ -1,24 +1,40 @@
 {
-	"blogs": [
-		{
-			"title": "My first blog",
-			"body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-			"author": "Jonas",
-			"id": 1
-		},
-		{
-			"title": "Yet another post",
-			"body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-			"author": "Jeppe",
-			"id": 2
-		},
-		{
-			"title": "Here we go again",
-			"body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-			"author": "Rikke",
-			"id": 3
-		}
-	]
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "author": "Jonas",
+      "id": 1
+    },
+    {
+      "title": "Yet another post",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "author": "Jeppe",
+      "id": 2
+    },
+    {
+      "title": "Here we go again",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "author": "Rikke",
+      "id": 3
+    },
+    {
+      "title": "My best blog",
+      "body": "In France in the early 20th century, the brothers Gaston and André Durville, both physicians, studied the effects of psychology, nutrition, and environment on health and healing. They became convinced of the importance of natural foods and the natural environment on human well-being and health. They named this concept in French: naturisme. The profound effect of clean air and sunlight on human bodies became evident to them and so nudity became a part of their naturism.\n\nNaturism became a more widespread phenomenon in the 1920s in Germany, the United Kingdom, France and other European countries and spread to the United States where it became established in the 1930s.\n\nBy 1951, the various national federations united to form the International Naturist Federation. Some naturists preferred not to join clubs, and after 1945, pressure arose to designate beaches for naturist use.\nFrom the middle of the 20th century, with changing leisure patterns, commercial organisations began opening holiday resorts to attract naturists who expected the same – or better – standards of comfort and amenity offered to non-naturists. More recently, naturist holiday options have expanded to include cruises.\n\nNaturism was part of a literary movement \n\nNaturist activities can have positive psychological benefits including greater life satisfaction, more positive body image, and higher self-esteem.",
+      "author": "Rikke",
+      "id": 4
+    },
+    {
+      "title": "This is awsome",
+      "body": "The majority of plants are bisexual,\n\nIt is generally accepted that isogamy was ancestral to anisogamy\n\nHowever, the evolution of anisogamy has left no fossil evidence: 213 \n\nBut a 1.2 billion year old fossil from Bangiomorpha pubescens has provided the oldest fossil record for the differentiation of male and female reproductive types and shown that sexes evolved early in eukaryotes.\n\nSex determination is often distinct from sex differentiation. Sex determination is the designation for the development stage towards either male or female while sex differentiation is the pathway towards the development of the phenotype.",
+      "author": "Jonas",
+      "id": 5
+    },
+    {
+      "title": "The hard game",
+      "body": "It is very physically demanding, especially for the passenger. This is reflected in most in the Swedish term for passenger, burkslav, roughly translated as trunk/barrel-slave. This name comes from the early sidecars which resembled road motorcycle sidecars and not today's platform.\n\nThe major frame builders today are VMC, BSU, AYR, EML and Woodenleg. Ordinary engines can be used, but size matters and two engines purpose built for sidecars exist, Zabel (Germany) and MTH (Austria) are most common. Four-strokes are becoming more common, usually KTM (Austria).\n\nPit bikes are small motorbikes that participants in powersports events use to ride around the pits, which are the staging areas where team support vehicles are located.  More recently, they have been used in races held on either supercross or motocross tracks. Numerous performance and aesthetic upgrades are often applied to pit bikes.\n\nOriginally, there was only one way to acquire a pit bike.  A rider would buy a child's minibike, usually a Honda CRF110 or Kawasaki KLX110, and apply all the necessary upgrades and modifications to build a competitive pit bike.  Of course, a rider could also buy a used bike. Since 2004, manufacturers like Thumpstar have begun designing, manufacturing, importing, and selling already complete pit bikes.  These bikes are less expensive, and require less time to complete.\n\nPit bikes are powered by 4-stroke, horizontal, single-cylinder engines ranging anywhere in displacement from 49 cc to 195 cc. A typical pit bike is usually a small dirt bike, but it has become common to be able to buy pit bikes with street-style wheels and tires. Pit bikes with street tires, as opposed to knobby tires, are used in Mini Supermoto Racing.",
+      "author": "Jeppe",
+      "id": 6
+    }
+  ]
 }
-
-
